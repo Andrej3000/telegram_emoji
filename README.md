@@ -2,13 +2,14 @@
 
 https://t.me/addemoji/NeuroTrashEmoji
 
-####Dark theme
+#### Dark theme
 
 ![NeuroTrashEmoji/images/n.png](NeuroTrashEmoji/images/n.png)
 
-#####Ligth theme
+##### Ligth theme
 
 ![NeuroTrashEmoji/images/d.png](NeuroTrashEmoji/images/d.png)
 
 
-![NeuroTrashEmoji/images/07.png](NeuroTrashEmoji/images/07.png)
+![NeuroTrashEmoji/images/07.jpg](NeuroTrashEmoji/images/07.jpg)
+

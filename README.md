@@ -1,6 +1,7 @@
 ## Custom telegram emoji by AI [Midjourney](https://www.midjourney.com)
 
-https://t.me/addemoji/NeuroTrashEmoji
+Emoji link: https://t.me/addemoji/NeuroTrashEmoji
+* you need a Telegram Premium to add emoji
 
 #### Dark theme
 
